@@ -22,7 +22,7 @@ the app is Waves. You can find in: [Waves](https://github.com/cubomx/waves). If 
 - Read books.
 - Write whatever comes to my mind.
 - Play Boardgames.
-- Listen to my friends and trying to the be the best I can in comprenhend their feelings.
+- Listen to my friends and trying to be the best I can in comprenhend their feelings.
 
 <!--
 **cubomx/cubomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
