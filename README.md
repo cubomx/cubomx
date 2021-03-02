@@ -11,6 +11,7 @@ My learning goals for this 2021 are:
 - Get a more in depth learning of CSS and Flexbox (learning the hard way with React Native).
 - Some deployment tools (maybe Heroku, Vercel or Google Firebase). 
 - Continue to improve my React Native skills.
+- Finally, also learn Flutter for mobile development.
 
 🔭 I’m currently working on a <strong>React Native</strong> app that wants to encourage people to learn Sign Language and break anything that keeps apart others. The name of
 the app is Waves. You can find in: [Waves](https://github.com/cubomx/waves). If you are interested in join in, let me know :) 
