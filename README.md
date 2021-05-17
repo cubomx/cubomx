@@ -3,11 +3,12 @@
 ### I'm Sergio Velázquez
 <img src="https://github.com/cubomx/cubomx/blob/main/css.gif" height="250" width="360" align="right"></img>
 
-I'm on my way of getting my career into the Frontend path. Anything that you may know about it and want to share it, please tell me. I want to know what other things are
+I'm on my way of getting my career into becoming Full Stack. Anything that you may know about it and want to share it, please tell me. I want to know what other things are
 out there. 
 
 My learning goals for this 2021 are:
 - Improve my React.js skills by inmersing myself in Hooks, React Router & Redux and Webpack.
+- Improve my Node.js, Golang, Flask/Django skils.
 - Get a more in depth learning of CSS and Flexbox (learning the hard way with React Native).
 - Some deployment tools (maybe Heroku, Vercel or Google Firebase). 
 - Continue to improve my React Native skills.
