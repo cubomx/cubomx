@@ -2,6 +2,7 @@
 
 ### I'm Sergio Velázquez
 <img src="https://github.com/cubomx/cubomx/blob/main/css.gif" height="250" width="360" align="right"></img>
+My personal website is hosted in [Netlify](https://www.netlify.com/) at [Sergio Velazquez](https://sergiovelazquez.netlify.app/)
 
 I'm on my way of getting my career into becoming Full Stack. Anything that you may know about it and want to share it, please tell me. I want to know what other things are
 out there. 
